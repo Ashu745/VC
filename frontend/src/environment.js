@@ -1,7 +1,7 @@
 let IS_PROD = true;
 
 
-const server = IS_PROD ? "https://vcbackend-ltz5.onrender.com":
+const server = IS_PROD ? "https://vcbackend-cx24.onrender.com":
     "https://localhost:3000"
     
 
